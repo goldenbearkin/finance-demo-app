@@ -28,7 +28,7 @@ This will:
 
 - **Frontend:** http://localhost:8080
 - **Backend API:** http://localhost:8000
-- **Backend Swagger Documentation:** http://localhost:8000/doc
+- **Backend Swagger Documentation:** http://localhost:8000/docs
 - **Kibana:** http://localhost:5601
 - **Elasticsearch:** http://localhost:9200
 

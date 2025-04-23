@@ -28,8 +28,8 @@ This will:
 
 - **Frontend:** http://localhost:8080
 - **Backend API:** http://localhost:8000
-- **Backend Swagger Documentation:** https://localhost:8000/doc
-- **Kibana:** https://localhost:5601
+- **Backend Swagger Documentation:** http://localhost:8000/doc
+- **Kibana:** http://localhost:5601
 - **Elasticsearch:** http://localhost:9200
 
 ## 👤 Test User Credentials

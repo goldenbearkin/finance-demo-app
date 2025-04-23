@@ -12,7 +12,7 @@ from app.domain.user.schemas import UserRead
 
 SECRET_KEY = "010f759b04f0bfd1116e822ef5f5f41a5d645334bdc8c3772ece71fa9642a816"
 ALGORITHM = "HS256"
-ACCESS_TOKEN_EXPIRE_MINUTES = 30
+ACCESS_TOKEN_EXPIRE_MINUTES = 60 * 24 * 30
 
 oauth2_scheme = OAuth2PasswordBearer(tokenUrl="token")
 
